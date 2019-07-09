@@ -1,0 +1,9 @@
+table, thead,tbody,tr,th,td { outline: 0; max-width: 100%; height: auto; }
+
+.no-border {
+    border-left: none;
+} 
+
+table, thead,tbody,tr,th,td  {
+    border-collapse: collapse;
+} 
